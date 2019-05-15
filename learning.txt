@@ -1,6 +1,9 @@
 This is a new file created for learning purpose
 
 Learning Git
+python
+java
+unix
 
 AWS
 
